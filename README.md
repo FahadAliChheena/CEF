@@ -51,7 +51,7 @@ If you encounter any issues or have questions, please contact the developer at [
 
 ## License
 
-This software is distributed under the MIT License. See the [LICENSE](License.txt) file for details.
+This software is distributed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
