@@ -21,7 +21,7 @@ Clint Email Finder is a web scraping tool designed to crawl websites, find email
 
 To install Clint Email Finder, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/yourrepository/releases) page.
+1. Download the latest release from the [Releases]https://github.com/FahadAliChheena/CEF/releases/ page.
 
 2. Extract the downloaded archive to a directory of your choice.
 
