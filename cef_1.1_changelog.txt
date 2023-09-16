@@ -1,0 +1,26 @@
+Version 1.1 - Changelog
+
+Release Date: [Insert Release Date]
+
+### Features
+
+- Enhanced the email crawling functionality to improve accuracy and performance.
+- Added support for crawling internal links and extracting emails from them.
+- Improved the handling of different email formats and patterns.
+- Introduced the "Settings" dialog to configure crawl limits and depth.
+- Included a "Help" dialog to provide users with guidance on using CEF effectively.
+
+### Bug Fixes
+
+- Addressed various bugs and issues reported by users.
+- Improved error handling and error messages for better user experience.
+
+### Known Issues (Resolved)
+
+- Fixed an issue where some valid email addresses were not being extracted.
+- Resolved a bug related to URL validation that caused certain links to be skipped.
+- Improved performance for crawling large websites with many links.
+
+Thank you for choosing Clint Email Finder (CEF) version 1.1!
+
+For support or feedback, contact: [Insert Contact Information]
