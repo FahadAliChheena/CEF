@@ -1,6 +1,6 @@
 Version 1.1 - Changelog
 
-Release Date: [Insert Release Date]
+Release Date: [Date](09/18/2023)
 
 ### Features
 
